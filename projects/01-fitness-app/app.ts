@@ -1,3 +1,6 @@
+import { Drawer } from './Drawer.ts';
+import { WheelPicker } from './WheelPicker.ts';
+
 document.addEventListener('DOMContentLoaded', () => {
   setupDrawer();
   setupWheelPickers();

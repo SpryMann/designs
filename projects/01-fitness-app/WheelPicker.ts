@@ -24,8 +24,7 @@ type WheelPickerState = {
   animationFrameId: number | null;
 };
 
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-class WheelPicker {
+export class WheelPicker {
   private root: HTMLDivElement;
   private container = document.createElement('div');
 

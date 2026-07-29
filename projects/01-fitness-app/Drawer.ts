@@ -8,8 +8,7 @@ type DrawerOptions = {
   threshold: number;
 };
 
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-class Drawer {
+export class Drawer {
   private root: HTMLDivElement;
   private handle: HTMLDivElement;
 
