@@ -1,0 +1,281 @@
+{
+  "framework": [
+    {
+      "id": 1,
+      "label": "Next.js"
+    },
+    {
+      "id": 2,
+      "label": "React"
+    },
+    {
+      "id": 3,
+      "label": "Vue"
+    },
+    {
+      "id": 4,
+      "label": "Svelte"
+    },
+    {
+      "id": 5,
+      "label": "Astro"
+    },
+    {
+      "id": 6,
+      "label": "Remix"
+    }
+  ],
+  "status": [
+    {
+      "id": 1,
+      "label": "Backlog",
+      "color": "gray"
+    },
+    {
+      "id": 2,
+      "label": "Todo",
+      "color": "light-gray"
+    },
+    {
+      "id": 3,
+      "label": "In Progress",
+      "color": "yellow"
+    },
+    {
+      "id": 4,
+      "label": "In Review",
+      "color": "blue"
+    },
+    {
+      "id": 5,
+      "label": "Done",
+      "color": "green"
+    },
+    {
+      "id": 6,
+      "label": "Canceled",
+      "color": "red"
+    }
+  ],
+  "country": [
+    {
+      "id": 1,
+      "label": "United States",
+      "code": "+1",
+      "flag": "🇺🇸"
+    },
+    {
+      "id": 2,
+      "label": "United Kingdom",
+      "code": "+44",
+      "flag": "🇬🇧"
+    },
+    {
+      "id": 3,
+      "label": "India",
+      "code": "+91",
+      "flag": "🇮🇳"
+    },
+    {
+      "id": 4,
+      "label": "Germany",
+      "code": "+49",
+      "flag": "🇩🇪"
+    },
+    {
+      "id": 5,
+      "label": "Japan",
+      "code": "+81",
+      "flag": "🇯🇵"
+    },
+    {
+      "id": 6,
+      "label": "Brazil",
+      "code": "+55",
+      "flag": "🇧🇷"
+    }
+  ],
+  "currency": [
+    {
+      "id": 1,
+      "label": "US Dollar",
+      "currency": "$"
+    },
+    {
+      "id": 2,
+      "label": "Euro",
+      "currency": "€"
+    },
+    {
+      "id": 3,
+      "label": "British Pound",
+      "currency": "£"
+    },
+    {
+      "id": 4,
+      "label": "Japanese Yen",
+      "currency": "¥"
+    },
+    {
+      "id": 5,
+      "label": "Indian Rupee",
+      "currency": "₹"
+    },
+    {
+      "id": 6,
+      "label": "Bitcoin",
+      "currency": "₿"
+    }
+  ],
+  "priority": [
+    {
+      "id": 1,
+      "label": "Urgent",
+      "color": "white"
+    },
+    {
+      "id": 2,
+      "label": "High",
+      "color": "yellow"
+    },
+    {
+      "id": 3,
+      "label": "Medium",
+      "color": "blue"
+    },
+    {
+      "id": 4,
+      "label": "Low",
+      "color": "light-gray"
+    },
+    {
+      "id": 5,
+      "label": "No priority",
+      "color": "gray"
+    }
+  ],
+  "timezone": [
+    {
+      "id": 1,
+      "label": "Los Angeles",
+      "timezone": "GMT-7"
+    },
+    {
+      "id": 2,
+      "label": "New York",
+      "timezone": "GMT-4"
+    },
+    {
+      "id": 3,
+      "label": "London",
+      "timezone": "GMT+1"
+    },
+    {
+      "id": 4,
+      "label": "Berlin",
+      "timezone": "GMT+2"
+    },
+    {
+      "id": 5,
+      "label": "Mumbai",
+      "timezone": "GMT+5:30"
+    },
+    {
+      "id": 6,
+      "label": "Tokyo",
+      "timezone": "GMT+9"
+    }
+  ],
+  "assignee": [
+    {
+      "id": 1,
+      "label": "Jane Doe",
+      "avatar": "JD",
+      "email": "jane.doe@example.com"
+    },
+    {
+      "id": 2,
+      "label": "John Doe",
+      "avatar": "JD",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": 3,
+      "label": "John Smith",
+      "avatar": "JS",
+      "email": "john.smith@example.com"
+    },
+    {
+      "id": 4,
+      "label": "Joe Bloggs",
+      "avatar": "JB",
+      "email": "joe.bloggs@example.com"
+    },
+    {
+      "id": 5,
+      "label": "Jane Roe",
+      "avatar": "JR",
+      "email": "jane.roe@example.com"
+    },
+    {
+      "id": 6,
+      "label": "Baby Doe",
+      "avatar": "BD",
+      "email": "baby.doe@example.com"
+    }
+  ],
+  "language": [
+    {
+      "id": 1,
+      "label": "English",
+      "language": "English",
+      "flag": "🇺🇸"
+    },
+    {
+      "id": 2,
+      "label": "Español",
+      "language": "Spanish",
+      "flag": "🇪🇸"
+    },
+    {
+      "id": 3,
+      "label": "Français",
+      "language": "French",
+      "flag": "🇫🇷"
+    },
+    {
+      "id": 4,
+      "label": "Deutsch",
+      "language": "German",
+      "flag": "🇩🇪"
+    },
+    {
+      "id": 5,
+      "label": "Português",
+      "language": "Portuguese",
+      "flag": "🇧🇷"
+    }
+  ],
+  "branch": [
+    {
+      "id": 1,
+      "label": "main"
+    },
+    {
+      "id": 2,
+      "label": "develop"
+    },
+    {
+      "id": 3,
+      "label": "feature/combine-sliders"
+    },
+    {
+      "id": 4,
+      "label": "fix/a11y-labels"
+    },
+    {
+      "id": 5,
+      "label": "ci/setup-gh-workflow"
+    }
+  ]
+}
